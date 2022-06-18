@@ -1,11 +1,11 @@
 ### 
 <div align="center">
   <a href="https://github.com/samuel06santos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel06santos&layout=compact&langs_count=7&theme=midnight-purple"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel06santos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel06santos&layout=compact&langs_count=7&theme=midnight-purple"/>
+   <img height="164em" src="https://github-readme-stats.vercel.app/api?username=samuel06santos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 <br><br>
-<div style="text-align:center">
+<div>
   <p align="center"><h1>Languages</h1></p>
   <p align="center">
     <img align="center" alt="Sam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
