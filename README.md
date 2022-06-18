@@ -6,7 +6,7 @@
 </div>
 <br><br>
 <div>
-  <p><center><h1>💻 Languages 📖:</h1></center></p>
+  <center><h1>💻 Languages 📖:</h1></center>
   <p align="center">
     <img align="center" alt="Sam-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Sam-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
