@@ -12,8 +12,8 @@
     <img align="center" alt="Sam-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
     <img align="center" alt="Sam-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
     <img align="center" alt="Sam-Lua" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg">
-    <img align="center" alt="Sam-Elixir" height="60" width="80"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
+    <!--<img align="center" alt="Sam-Elixir" height="60" width="80"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">//-->
     <img align="center" alt="Sam-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Sam-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="Sam-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
