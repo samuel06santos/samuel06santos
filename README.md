@@ -1,7 +1,7 @@
 ### 
 <div align="center">
   <a href="https://github.com/samuel06santos">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel06santos&locale=pt-br&hide=Jupyter%20Notebook&exclude_repo=Sistema-WEB&layout=compact&langs_count=10&theme=midnight-purple"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel06santos&locale=pt-br&hide=Jupyter%20Notebook&exclude_repo=Sistema-WEB&layout=compact&langs_count=8&theme=midnight-purple"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuel06santos&card_width=400&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&text_bold=false&hide=prs,issues&custom_title=Minhas%20Estatísticas"/>
 </div>
 <br><br>
